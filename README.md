@@ -3,6 +3,7 @@
 - [Machine Learning Model Training](Model_Training.ipynb)
 - [Machine Learning Model Evaluation](Model_Evaluation.ipynb)
 - [Project_Demo](Demo.ipynb)
+- [DR NTU](https://dr.ntu.edu.sg/entities/publication/cabb2d1c-fb0e-48e5-aded-4fce4aa8606d)
 
 ## 📖 Background
 The advancement of technology in a modern era has allowed Internet users to access social media easily. However, the number of content polluters also known as spammers have increased rapidly over the years. Spammers attract Internet users’ attention by broadcasting unsolicited content repetitively on social media platforms. Their actions have caused negative social experience for legitimate Internet users. As a result, spam detection models are required to deter social media spammers. The goal of spam detection is to automatically classify content such as tweets into spam or non-spam. Past studies have shown that the success of spam detection models was built by numerous types of machine learning and deep learning methods.
